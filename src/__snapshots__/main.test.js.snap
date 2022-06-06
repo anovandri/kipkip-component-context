@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`merges components from context with components prop 1`] = `"{\\"abc\\":\\"123\\",\\"xyz\\":\\"321\\"}"`;
+
+exports[`passes components from context in components prop 1`] = `"{\\"foo\\":\\"bar\\"}"`;
