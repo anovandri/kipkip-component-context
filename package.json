@@ -2,7 +2,7 @@
   "name": "@kipkip/component-context",
   "version": "0.0.1",
   "description": "A system for injecting React components into other React components from a central components context",
-  "main": "index.js",
+  "main": "./main/main.js",
   "scripts": {
     "build": "rimraf dist && cross-env BABEL_ENV=production babel src --out-dir dist --ignore *.test.js",
     "lint": "eslint src",
